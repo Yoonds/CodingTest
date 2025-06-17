@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 func solution(_ n: Int) -> Int {
     var a = 0, b = 1
