@@ -13,4 +13,4 @@ func solution(_ s: String) -> String {
     }.joined()
 }
 
-solution("for the last week")
+//solution("for the last week")

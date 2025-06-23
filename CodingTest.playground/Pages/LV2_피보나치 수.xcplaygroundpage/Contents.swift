@@ -10,4 +10,4 @@ func solution(_ n: Int) -> Int {
     return n == 0 ? a : b
 }
 
-//print(solution(5))
+//solution(5)
