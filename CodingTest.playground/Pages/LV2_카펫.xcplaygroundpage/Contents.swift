@@ -9,4 +9,4 @@ func solution(_ brown: Int, _ yellow: Int) -> [Int] {
     return [0, 0]
 }
 
-//print(solution(10, 2))
+//solution(10, 2)
